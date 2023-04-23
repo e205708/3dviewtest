@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on 部屋の選択</title>
+    <link>http://www.forrexlapis.win/test/</link>
+    <description>Recent content in Tests on 部屋の選択</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2023 16:14:43 +0900</lastBuildDate><atom:link href="http://www.forrexlapis.win/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newpage</title>
+      <link>http://www.forrexlapis.win/test/newpage/</link>
+      <pubDate>Sun, 23 Apr 2023 16:14:43 +0900</pubDate>
+      
+      <guid>http://www.forrexlapis.win/test/newpage/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+baseURL = 'http://www.forrexlapis.win/'
+languageCode = 'en-us'
+title = '部屋の選択'
+theme = 'LoveIt'
+hasCJKLanguage = true
+
+[params]
+[params.header]
+[params.header.title]
+name = "ホーム"
+[params.app]
+title = "ホーム"
+[params.home]
+[params.home.profile]
+title = "予約"
+subtitle = "部屋のサイズをお選びください"

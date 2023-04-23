@@ -1,0 +1,27 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>small - Tag - 部屋の選択</title>
+        <link>http://www.forrexlapis.win/tags/small/</link>
+        <description>small - Tag - 部屋の選択</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Apr 2023 16:21:01 &#43;0900</lastBuildDate><atom:link href="http://www.forrexlapis.win/tags/small/" rel="self" type="application/rss+xml" /><item>
+    <title>RoomB</title>
+    <link>http://www.forrexlapis.win/rooms/roomb/</link>
+    <pubDate>Sun, 23 Apr 2023 16:21:01 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://www.forrexlapis.win/rooms/roomb/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/roomB_fix.jpg" referrerpolicy="no-referrer">
+            </div>とてもごちゃついた部屋です。 ロフトベットを活用することで無理やり、使用することができる面積を広げています。 3Dで確認する 予約する]]></description>
+</item>
+<item>
+    <title>RoomA</title>
+    <link>http://www.forrexlapis.win/rooms/rooma/</link>
+    <pubDate>Sun, 23 Apr 2023 16:14:43 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>http://www.forrexlapis.win/rooms/rooma/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/roomA_fix.jpg" referrerpolicy="no-referrer">
+            </div>スッキリした部屋です。 寝心地の悪そうなベット付き 3Dで確認する 予約する]]></description>
+</item>
+</channel>
+</rss>

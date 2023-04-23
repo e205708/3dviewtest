@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rooms on 部屋の選択</title>
+    <link>http://www.forrexlapis.win/rooms/</link>
+    <description>Recent content in Rooms on 部屋の選択</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2023 16:21:01 +0900</lastBuildDate><atom:link href="http://www.forrexlapis.win/rooms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoomB</title>
+      <link>http://www.forrexlapis.win/rooms/roomb/</link>
+      <pubDate>Sun, 23 Apr 2023 16:21:01 +0900</pubDate>
+      
+      <guid>http://www.forrexlapis.win/rooms/roomb/</guid>
+      <description>とてもごちゃついた部屋です。 ロフトベットを活用することで無理やり、使用することができる面積を広げています。 3Dで確認する 予約する</description>
+    </item>
+    
+    <item>
+      <title>RoomC</title>
+      <link>http://www.forrexlapis.win/rooms/roomc/</link>
+      <pubDate>Sun, 23 Apr 2023 16:21:01 +0900</pubDate>
+      
+      <guid>http://www.forrexlapis.win/rooms/roomc/</guid>
+      <description>とてもごちゃついた部屋です。 ロフトベットを活用することで無理やり、使用することができる面積を広げています。 3Dで確認する 予約する</description>
+    </item>
+    
+    <item>
+      <title>RoomD</title>
+      <link>http://www.forrexlapis.win/rooms/roomd/</link>
+      <pubDate>Sun, 23 Apr 2023 16:21:01 +0900</pubDate>
+      
+      <guid>http://www.forrexlapis.win/rooms/roomd/</guid>
+      <description>とてもごちゃついた部屋です。 ロフトベットを活用することで無理やり、使用することができる面積を広げています。 3Dで確認する 予約する</description>
+    </item>
+    
+    <item>
+      <title>RoomA</title>
+      <link>http://www.forrexlapis.win/rooms/rooma/</link>
+      <pubDate>Sun, 23 Apr 2023 16:14:43 +0900</pubDate>
+      
+      <guid>http://www.forrexlapis.win/rooms/rooma/</guid>
+      <description>スッキリした部屋です。 寝心地の悪そうなベット付き 3Dで確認する 予約する</description>
+    </item>
+    
+    <item>
+      <title>予約完了</title>
+      <link>http://www.forrexlapis.win/rooms/reserved/</link>
+      <pubDate>Sun, 23 Apr 2023 16:14:43 +0900</pubDate>
+      
+      <guid>http://www.forrexlapis.win/rooms/reserved/</guid>
+      <description>一定時間後ホーム画面へ遷移します</description>
+    </item>
+    
+  </channel>
+</rss>
