@@ -1,4 +1,4 @@
-baseURL = 'http://www.forrexlapis.win/'
+baseURL = 'https://roaring-cuchufli-5b654b.netlify.app/'
 languageCode = 'en-us'
 title = '部屋の選択'
 theme = 'LoveIt'
